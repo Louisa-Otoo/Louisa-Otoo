@@ -5,7 +5,7 @@
 
 🌱 I'm currently learning databases at Developers in Vogue
 
-🎧 Music is my go to when I am not coding.
+🎧 Music is my go to when I'm not coding.
 
 📬 How to reach me: louisaotoo1001@gmail.com
 
