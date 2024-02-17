@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Louisa-Otoo
+- 👋 Hi, I’m Louisa
 - 👀 I’m interested in everthing tech
 - 🌱 I’m currently learning software development at DIV
 - 💞️ I’m looking to collaborate on ...
