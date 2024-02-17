@@ -6,7 +6,7 @@
 🌱 I'm currently learning databases at Developers in Vogue
 
 🔭 Music is my go to when I am not coding.
-:EMOJICODE::musical_keyboard: Music is my go to when I am not coding.
+:EMOJICODE:musical_keyboard: Music is my go to when I am not coding.
 
 📬 How to reach me: louisaotoo1001@gmail.com
 
