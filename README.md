@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Louisa and it's a pleasure to meet you! 
 
- Something about me:
+ ### Something about me:
 -👨‍🎓 I'm a Software Developer and i love everything tech.
 -🌱 I'm currently learning databases at Developers in Vogue
 -🔭 Music is my go to when I am not coding.
