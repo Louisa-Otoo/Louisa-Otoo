@@ -18,7 +18,7 @@ I'm a passionate **Software Developer** who enjoys turning ideas into functional
 
 ## 📊 GitHub Stats
 
-![Louisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elle-Codes&show_icons=true&theme=tokyonight)
+![Louisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Louisa-Otoo&show_icons=true&theme=tokyonight)
 
 ---
 
