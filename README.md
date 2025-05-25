@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Louisa Otoo – aka Louisa Otoo, and its a pleasure to meet you.
+# 👋 Hi there, I'm Louisa.
 
 I'm a passionate **Software Developer** who enjoys turning ideas into functional, beautiful web applications. I specialize in building responsive, dynamic websites using the **MERN stack** (MongoDB, Express, React, Node.js) and love working with **HTML**, **CSS**, and **JavaScript** to bring designs to life.
 
