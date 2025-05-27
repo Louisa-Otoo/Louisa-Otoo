@@ -15,7 +15,10 @@ I'm a passionate **Software Developer** who enjoys turning ideas into functional
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white" />
 </p>
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,git,sqlite" />
 
 ---
 
