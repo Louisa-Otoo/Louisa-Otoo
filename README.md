@@ -18,8 +18,6 @@ I'm a passionate **Software Developer** who enjoys turning ideas into functional
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white" />
 </p>
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,git,sqlite" />
-
 ---
 
 ## 🧩 Projects I'm Working On
